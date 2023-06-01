@@ -1,3 +1,6 @@
+<h1 align="center">Hi 👋, I'm Pasan Diksura</h1>
+<h4>A passionate Mobile Application Developer from Sri Lanka</h4>
+
 # About Me:
 🔭 I’m currently working on Android Project<br>🤝 I’m looking for help with Android Developing<br>🌱 I’m currently learning Kotlin and Machine Learning<br>💬 Ask me about Java<br>📫 How to reach me : www.linkedin.com/in/pasan-diksura-094b6b222/<br>⚡ Fun fact "Stewardesses" is the longest word that is typed with only the left hand
 

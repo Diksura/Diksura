@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Mobile Application Developer from Sri Lanka</h3>
 
 # About Me:
-🔭 I’m currently working on Android Project<br>🤝 I’m looking for help with Android Developing<br>🌱 I’m currently learning Kotlin and Machine Learning<br>💬 Ask me about Java<br>📫 How to reach me : www.linkedin.com/in/pasan-diksura-094b6b222/<br>⚡ Fun fact "Stewardesses" is the longest word that is typed with only the left hand
+🔭 I’m currently working on Android Project<br>🤝 I’m looking for help with Android Developing<br>🌱 I’m currently learning Kotlin and Machine Learning<br>💬 Ask me about Java<br>📫 How to reach me : <a href="www.linkedin.com/in/pasan-diksura-094b6b222/" target="_blank">LinkedIn - Pasan Diksura</a><br>⚡ Fun fact "Stewardesses" is the longest word that is typed with only the left hand
 
 
 ## Socials:

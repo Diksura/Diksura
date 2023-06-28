@@ -14,7 +14,7 @@
 # GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Diksura&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Diksura&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Diksura&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+<!--![](https://github-readme-stats.vercel.app/api/top-langs/?username=Diksura&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact) -->
 
 ## Latest Tweet
 [![](https://gtce.itsvg.in/api?username=https://twitter.com/home)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
